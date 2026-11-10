@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+  <linearGradient id="sky" x2="0%" y2="100%" gradientUnits="objectBoundingBox"><stop stop-color="#59b6d9"/><stop offset="1" stop-color="#ddf0cb"/></linearGradient>
+  <linearGradient id="hill" x2="0%" y2="100%"><stop stop-color="#79af8a"/><stop offset="1" stop-color="#318066"/></linearGradient>
+  <g id="pine"><path d="M-8 0h16l-4-182h-8z" fill="#496d53"/><path d="M0-225 42-150 26-152 59-101 39-106 70-56Q0-35-70-56l31-50-20 5 33-51-16 2z" fill="#448873"/><path d="M0-225 42-150 26-152 59-101 39-106 70-56Q33-47 1-53z" fill="#397761"/></g>
+</defs>
+<path fill="url(#sky)" d="M0 0h1280v720H0z"/>
+<circle cx="1000" cy="155" r="105" fill="#fff0b1" opacity=".19"/><circle cx="1000" cy="155" r="78" fill="#fff0b1" opacity=".3"/><circle cx="1000" cy="155" r="53" fill="#fff1b8"/>
+<g fill="#f4fff2" opacity=".77"><path d="M74 147q18-22 46-17 15-39 56-20 22-18 43 6 31-3 49 26-112 19-194 5z"/><path d="M663 174q26-26 54-14 18-33 53-13 33-14 65 20-107 18-172 7z"/><path d="M1084 233q23-29 54-17 18-34 44-17 43-11 67 25-84 18-165 9z"/></g>
+<path fill="#79a7b0" d="M0 412 144 276 206 309 370 148 541 343 654 242 728 288 856 193 1060 356 1149 254 1280 412v308H0z"/>
+<path fill="#a1c7c8" d="m206 309 164-161 171 195-131-108-38 26-32-25zm522-21 128-95 112 90-110-51-39 19z"/>
+<path fill="#659a98" d="M0 444 166 367 249 387 416 303 550 419 724 349 861 402 1010 327 1157 414l123 30v276H0z"/>
+<path fill="url(#hill)" d="M0 510q182-151 421-28t465-12q171-103 394 40v210H0z"/>
+<g opacity=".75"><use href="#pine" transform="translate(10 626) scale(.95)"/><use href="#pine" transform="translate(116 644) scale(.74)"/><use href="#pine" transform="translate(207 647) scale(.96)"/><use href="#pine" transform="translate(325 664) scale(.65)"/><use href="#pine" transform="translate(422 666) scale(.85)"/><use href="#pine" transform="translate(522 658) scale(.65)"/><use href="#pine" transform="translate(636 666) scale(.87)"/><use href="#pine" transform="translate(739 656) scale(.72)"/><use href="#pine" transform="translate(858 645) scale(.9)"/><use href="#pine" transform="translate(977 631) scale(.8)"/><use href="#pine" transform="translate(1080 637) scale(1.04)"/><use href="#pine" transform="translate(1190 629) scale(.82)"/></g>
+<path fill="#397959" d="M0 640q75-23 160 4t160 4q125-48 240-9t230-2q104-36 222-3t268 6v80H0z"/>
+</svg>
